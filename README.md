@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danakins1
+- 👀 I’m interested in frontend development 
+- 🌱 I’m currently learning html, javascriot and css
